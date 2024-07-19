@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amrutha0129
-- 👀 I’m interested in Software Testing-QA -End-toEnd Test the application
+- 👀 I’m interested in Software Testing-QA -End-to-End Test the Web/Mobile application
 - 🌱 I’m currently learning ...to upgrade myself with new tools, technologies in the Tech world
 - 💞️ I’m looking to collaborate on ...Testing platform
 - 📫 
